@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Next.js, MongoDB, Django.**
 
-- - 🔭 I’m currently doing 100DaysodDSA with JAVA language.
+- 🔭 I’m currently doing 100DaysodDSA with JAVA language.
 - 👨‍💻 All of my projects are available at [https://github.com/Aaravshukla15](https://github.com/Aaravshukla15)
 
 - 📝 I regularly write articles on [https://medium.com/@shuklaaarav](https://medium.com/@shuklaaarav)
