@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on E-Commerce Web-app **HetroCity fashion app**
 
-- 🌱 I’m currently learning **Next.js, MongoDB, Django.**
+- 🌱 I’m currently learning **Next.js, MongoDB, Node.js, Django.**
 
 - 🔭 I’m currently doing 100DaysodDSA with JAVA language.
 - 👨‍💻 All of my projects are available at [https://github.com/Aaravshukla15](https://github.com/Aaravshukla15)
