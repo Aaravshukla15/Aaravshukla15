@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/aarav_shukla15" target="blank"><img src="https://img.shields.io/twitter/follow/aarav_shukla15?logo=twitter&style=for-the-badge" alt="aarav_shukla15" /></a> </p>
 
-- 🔭 I’m currently working on E-Commerce Web-app **HetroCity fashion app**
+- 🔭 I’m currently for a Job**
 
-- 🌱 I’m currently learning **Next.js, MongoDB, Node.js, Django.**
+- 🌱 I’m currently learning **Next.js, Django.**
 
 - 🔭 I’m currently doing 100DaysodDSA with JAVA language.
 - 👨‍💻 All of my projects are available at [https://github.com/Aaravshukla15](https://github.com/Aaravshukla15)
