@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/aarav_shukla15" target="blank"><img src="https://img.shields.io/twitter/follow/aarav_shukla15?logo=twitter&style=for-the-badge" alt="aarav_shukla15" /></a> </p>
 
-- 🔭 **I’m currently for a Job**
+- 🔭 **I’m currently looking for a Job**
 
 - 🌱 I’m currently learning **Next.js, Django.**
 
