@@ -12,6 +12,8 @@
 - 🔭 I’m currently doing 100DaysodDSA with JAVA language.
 - 👨‍💻 All of my projects are available at [https://github.com/Aaravshukla15](https://github.com/Aaravshukla15)
 
+- 👨‍💻 My LeetCode profile - [https://leetcode.com/u/shuklaarav10/](https://leetcode.com/u/shuklaarav10/)
+
 - 📝 I regularly write articles on [https://medium.com/@shuklaaarav](https://medium.com/@shuklaaarav)
 
 - 💬 Ask me about **React, JavaScript, Python**
